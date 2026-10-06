@@ -1,0 +1,15 @@
+{
+  "name": "systematic-debugger",
+  "displayName": "Systematic Debugger",
+  "version": "1.0.0",
+  "description": "Scientific, evidence-driven root cause debugging methodology for Antigravity. Strictly eliminates guesswork and band-aid fixes through hypothesis testing, isolation repros, and verification subagents.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "/debug Investigate and fix the intermittent timeout in our API handler without guessing",
+    "debug this: TypeError cannot read property 'state' in production build using systematic method",
+    "Formulate competing hypotheses and create a minimal reproduction test case for this bug"
+  ],
+  "skills": [
+    "./skills/systematic-debugger"
+  ]
+}
